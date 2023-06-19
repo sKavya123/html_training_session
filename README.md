@@ -25,5 +25,9 @@ learning html
     <th>4</th>
     <th>activity4</th>
     <th>understanding of noscript tags</th>
+   </tr>
+   <th>5</th>
+    <th>activity5</th>
+    <th>create a external css,and link it using link tag</th>
    </tr> 
 </table>
