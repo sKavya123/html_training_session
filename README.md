@@ -32,5 +32,10 @@ learning html
     <th>5</th>
     <th>activity5</th>
     <th>create a external css,and link it using link tag</th>
-  </tr>  
+  </tr>
+  <tr>
+    <th>6</th>
+    <th>activity6</th>
+    <th>insert the icon web documents</th>
+  </tr>    
  </table>
