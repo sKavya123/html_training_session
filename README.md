@@ -19,8 +19,8 @@ learning html
     <th>understanding of internal javascript</th>
    </tr> 
    <tr>
-    <th>1</th>
-    <th>activity1</th>
+    <th>3</th>
+    <th>activity3</th>
     <th>understanding od external javascript</th>
    </tr> 
 </table>
