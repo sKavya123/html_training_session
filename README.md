@@ -4,9 +4,9 @@ learning html
 # table of contents
 <table>
   <tr>
-    <td>s.no</td>
-    <td>name of activity</td>
-    <td>description</td>
+    <th>s.no</th>
+    <th>name of activity</th>
+    <th>description</th>
   </tr>
   <tr>
     <td>1</td>
@@ -67,5 +67,10 @@ learning html
     <td>12</td>
     <td>activity12</td>
     <td>html entities and html comments</td>
-  </tr>   
+  </tr> 
+  <tr> 
+    <td>13</td>
+    <td>activity13</td>
+    <td> create table to display family members names </td>
+  </tr>  
  </table>
