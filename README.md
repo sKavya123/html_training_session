@@ -88,4 +88,9 @@ learning html
     <td>activity16</td>
     <td> paragraph in html</td>
     </tr>
+    <tr> 
+    <td>17</td>
+    <td>activity17</td>
+    <td> hr and br in html</td>
+    </tr>
  </table>
