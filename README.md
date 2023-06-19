@@ -78,4 +78,8 @@ learning html
     <td>activity14</td>
     <td> provide border to the  samwe table </td>
   </tr> 
+  <tr> 
+    <td>15</td>
+    <td>activity15</td>
+    <td> heading for h1 to h6</td>
  </table>
