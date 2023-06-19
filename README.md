@@ -48,4 +48,9 @@ learning html
     <th>activity8</th>
     <th>internal sheet activity</th>
   </tr>  
+  <tr>
+    <th>9</th>
+    <th>activity9</th>
+    <th>redirect your web document after 5 second to another website</th>
+  </tr>  
  </table>
