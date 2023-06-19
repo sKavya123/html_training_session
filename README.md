@@ -82,4 +82,10 @@ learning html
     <td>15</td>
     <td>activity15</td>
     <td> heading for h1 to h6</td>
+    </tr>
+    <tr> 
+    <td>16</td>
+    <td>activity16</td>
+    <td> paragraph in html</td>
+    </tr>
  </table>
