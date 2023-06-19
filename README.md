@@ -17,17 +17,20 @@ learning html
     <th>2</th>
     <th>activity2</th>
     <th>understanding of internal javascript</th>
-   </tr> 
-   <tr>
+  </tr> 
+  <tr>
     <th>3</th>
     <th>activity3</th>
     <th>understanding of external javascript</th>
-    <th>4</th>
+  </tr>
+   <tr>
+     <th>4</th>
     <th>activity4</th>
     <th>understanding of noscript tags</th>
-   </tr>
-   <th>5</th>
+  </tr>
+  <tr>
+    <th>5</th>
     <th>activity5</th>
     <th>create a external css,and link it using link tag</th>
-   </tr> 
-</table>
+  </tr>  
+ </table>
