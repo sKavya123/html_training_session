@@ -93,4 +93,9 @@ learning html
     <td>activity17</td>
     <td> hr and br in html</td>
     </tr>
+    tr> 
+    <td>18</td>
+    <td>activity18</td>
+    <td>div tag in html</td>
+    </tr>
  </table>
