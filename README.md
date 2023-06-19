@@ -4,62 +4,68 @@ learning html
 # table of contents
 <table>
   <tr>
-    <th>s.no</th>
-    <th>name of activity</th>
-    <th>description</th>
+    <td>s.no</td>
+    <td>name of activity</td>
+    <td>description</td>
   </tr>
   <tr>
-    <th>1</th>
-    <th>activity1</th>
-    <th>understanding of meta tags</th>
+    <td>1</td>
+    <td>activity1</td>
+    <td>understanding of meta tags</td>
    </tr>  
    <tr>
-    <th>2</th>
-    <th>activity2</th>
-    <th>understanding of internal javascript</th>
+    <td>2</td>
+    <td>activity2</td>
+    <td>understanding of internal javascript</td>
   </tr> 
   <tr>
-    <th>3</th>
-    <th>activity3</th>
-    <th>understanding of external javascript</th>
+    <td>3</td>
+    <td>activity3</td>
+    <td>understanding of external javascript</td>
   </tr>
    <tr>
-     <th>4</th>
-    <th>activity4</th>
-    <th>understanding of noscript tags</th>
+     <td>4</td>
+    <td>activity4</td>
+    <td>understanding of noscript tags</td>
   </tr>
   <tr>
-    <th>5</th>
-    <th>activity5</th>
-    <th>create a external css,and link it using link tag</th>
+    <td>5</td>
+    <td>activity5</td>
+    <td>create a external css,and link it using link tag</td>
   </tr>
   <tr>
-    <th>6</th>
-    <th>activity6</th>
-    <th>insert the icon web documents</th>
+    <td>6</td>
+    <td>activity6</td>
+    <td>insert the icon web documents</td>
   </tr> 
   <tr>
-    <th>7</th>
-    <th>activity7</th>
-    <th>title for web development</th>
+    <td>7</td>
+    <td>activity7</td>
+    <td>title for web development</td>
   </tr>  
   <tr>
-    <th>8</th>
-    <th>activity8</th>
-    <th>internal sheet activity</th>
+    <td>8</td>
+    <td>activity8</td>
+    <td>internal sheet activity</td>
   </tr>  
   <tr>
-    <th>9</th>
-    <th>activity9</th>
-    <th>redirect your web document after 5 second to another website</th>
-  </tr> 
-  <th>10</th>
-    <th>activity10</th>
-    <th>backgroung image for body</th>
+    <td>9</td>
+    <td>activity9</t>
+    <td>redirect your web document after 5 second to another website</td>
   </tr>
-  </tr> 
-  <th>11</th>
-    <th>activity11</th>
-    <th>anchor tag</th>
+  <tr> 
+     <td>10</td>
+    <td>activity10</td>
+    <td>backgroung image for body</td>
+  </tr>
+  <tr> 
+    <td>11</td>
+    <td>activity11</td>
+    <td>anchor tag</td>
+  </tr>  
+  <tr> 
+    <td>12</td>
+    <td>activity12</td>
+    <td>html entities and html comments</td>
   </tr>   
  </table>
